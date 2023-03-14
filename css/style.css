@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+:root{
+	--color-hover-menu:#FE8F01;
+	--color-columnas-about: #F5F5F5;
+	--fondo-gris: #3A3A3A;
+}
+body{
+	font-size: 14px;
+	font-family: 'Open Sans';
+}
+header{
+	background-color: #3d3d3d;
+	padding: 10px 0;
+}
+h1{
+	font-size: 80px;
+	padding: 20px;
+}
+h2{
+	font-size: 38px;
+	text-transform: uppercase;
+	color: #494949;
+	padding: 40px;
+}
+#about-us .row{
+	background-color: #494949;
+}
+#hero p{
+	letter-spacing: 5px;
+}
+#about-us{
+	text-align: center;
+	padding: 60px 0px;
+	color: #FFFFFF;
+}
+#about-us h4{
+	text-transform: uppercase;
+	padding: 10px 0;
+	font-size: 17px;
+	font-weight: 700;
+}
+#about-us p{
+	padding: 10px 20px;
+	font-size: 12px;
+}
+#about-us .div{
+	background-color: #494949;
+	padding: 20px 0;
+}
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+}
+#counter{
+	text-align: center;
+	background-color: #010101;
+	color: #FFFFFF;
+	padding: 30px 0;
+}
+#counter h4{
+	padding: 10px;
+	font-size: 35px;
+	font-weight: 100;
+}
+#counter h5{
+	color: #FE8F01;
+	padding: 10px;
+	font-size: 13px;
+}
+#counter i{
+	color: #FFFFFF;
+	font-size: 36px;
+	padding: 10px;
+}
+#about-us i{
+	background-color: #FE8F01;
+	color: #fff;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	border-radius: 35px;
+	text-align: center;
+	font-size: 40px;
+	margin: 10px 0;
+}
+
+
